@@ -1,0 +1,6 @@
+title: Is memorized junk worth pruning?
+description: Random keys, boilerplate and capacity in small language models
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
